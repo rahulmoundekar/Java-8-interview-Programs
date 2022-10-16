@@ -13,20 +13,20 @@
 	find the "hello" word contains and return count.
 9} write a program for string anagram or not.
 10} Count repeated words in given string. String str="I am Rahul, My name is Rahul, I have 6 yrs of experience".
-11} count characters from give string. String str="abcbacadeq";
+11} count characters from given string. String str="abcbacadeq";
 12} Customer sorting by comparator using java 8
-13} find largest number from give array
-14} sort array by there count from give array. 
+13} find largest number from given array
+14} sort array by there count from given array. 
 	int arr[]={1,2,1,2,2,3,4,5,3,5,6,7} output: {4,7,1,1,3,3,5,5,2,2,2};
-15} print non repeated elements from give array.
+15} print non repeated elements from given array.
 16} create immutable class
 17} find repeated integers from the list
 18} find the employee second highest salary java 8 and query
 19} employee table and department table
 	find the employee count department wise 
 		e.g IT 5, Account 2.
-20} What is the difference between Function and BiFunction?
-21} find element from give array by using binary search.
+20} What is the difference between Function and storeprocedure?
+21} find element from given array by using binary search.
 22} Why static methods are introduced to interfaces from Java 8?
 23} Why default methods are introduced to interfaces from Java 8?	
 24} What are intermediate and terminal operations?	 

@@ -1,6 +1,6 @@
 package demo;
 
-public class FirstCharacterIsUppercase {
+public class FirstCharacterIsUppercase_2 {
 
 	static boolean IsUpperFirstChar(String str) {
 		return Character.isUpperCase(str.charAt(0));
